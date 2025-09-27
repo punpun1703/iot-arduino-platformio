@@ -8,7 +8,7 @@ void setup() {
 
 void loop() {
   digitalWrite(LED_PIN, HIGH);  // เปิด LED
-  delay(500);
+  delay(200);
   digitalWrite(LED_PIN, LOW);   // ปิด LED
-  delay(500);
+  delay(200);
 }
